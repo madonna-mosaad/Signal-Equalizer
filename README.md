@@ -1,1 +1,1 @@
-# Signal-Equalizer-
+# Signal-Equalizer
