@@ -52,7 +52,7 @@ Below are illustrative mockups of the application showcasing its key features (r
 ### **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/signal-equalizer.git
+   git clone https://github.com/madonna-mosaad/signal-equalizer.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -78,13 +78,14 @@ Below are illustrative mockups of the application showcasing its key features (r
 ---
 
 ### **Credits**
-- [Your Name](https://github.com/your-github-username)
-- [Team Member 1](https://github.com/team-member1)
-- [Team Member 2](https://github.com/team-member2)
+
+- [Madonna Mosaad](https://github.com/madonna-mosaad)
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)
+- [Yassien Tawfik](https://github.com/YassienTawfikk)
 
 ---
 
 ### **Contact**
 For any inquiries or feedback, please contact:
-- **Name**: Your Name
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Name**: Madonna Mosaad
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
