@@ -86,5 +86,5 @@ This project wouldn’t have been possible without the hard work and collaborati
 
 ### **Contact**
 For any inquiries or feedback, please contact:
-- **Name**: Nancy Mahmoud
-- **Email**: [Nancy.Abdelfattah03@eng-st.cu.edu.eg](mailto:nancy.abdelfattah03@eng-st.cu.edu.eg)
+- **Name**: Madonna Mosaad
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
