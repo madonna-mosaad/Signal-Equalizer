@@ -62,15 +62,23 @@ https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
 
 ---
 
-## Setup and Installation  
-### Prerequisites:  
-- Python 3.8+  
-- PyQt5  
-- Numpy  
-- Scipy  
-- Matplotlib & PyQtGraph  
-- Audio processing libraries like Librosa , sounddevice
-
+### **Setup and Installation**
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/madonna-mosaad/Signal-Equalizer.git
+   ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Signal-Equalizer
+   ```
+3. **Install Required Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Application**:
+   ```bash
+   python Main.py
+   ```
 ### Installation:  
 1. Clone this repository:  
    ```bash
