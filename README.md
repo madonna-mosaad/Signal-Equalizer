@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/d9f477f2-027d-402d-b953-52c1aa925c3b
 ---
 
 - ### **Eliminates Vowels Mode**  
-   ![image](https://github.com/user-attachments/assets/ed7776e4-d70c-4848-b3d9-83d33db03882)
+  ![Screenshot (1237)](https://github.com/user-attachments/assets/87494a97-16db-43f1-a0aa-35c1246dcb7a)
  
 ---
 
